@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615308489 source:d:\elte\2.félév\algoritmusok és adatszerkezetek\gyak\öngyak\linkedlists\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"List.h"
+
+1615308515 source:d:\elte\2.félév\algoritmusok és adatszerkezetek\gyak\öngyak\linkedlists\src\list.cpp
+	"List.h"
+
+1615308300 d:\elte\2.félév\algoritmusok és adatszerkezetek\gyak\öngyak\linkedlists\include\list.h
+	<iostream>
+
